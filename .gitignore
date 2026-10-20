@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+Word版/
+demo/output.docx
+demo/render/
+*.pdf
+!docs/*.pdf
